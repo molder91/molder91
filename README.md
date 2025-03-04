@@ -3,7 +3,7 @@
 - 👀 I’m interested in AI programming, ML, DL, RL, and more.
 - 🌱 I’m currently learning frontend and python data analysis
 - 💞️ I’m looking to collaborate on AI programmed based projects
-- 📫 How to reach me: email: @molder304@gmail.com
+- 📫 How to reach me: email: molder304@gmail.com and molder34@proton.me
 - 😄 Pronouns: he/him
 
 <!---
