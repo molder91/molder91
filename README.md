@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @molder91. You can call me molder or molder34.
+- 👋 Hi, I’m @molder91. You can call me molder (mo-de-er) or molder34.
 - 😄 I'm current an international student in China. 
 - 👀 I’m interested in AI programming, ML, DL, RL, and more.
 - 🌱 I’m currently learning frontend and python data analysis
